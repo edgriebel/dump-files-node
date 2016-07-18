@@ -1,0 +1,12 @@
+{
+  "name": "node-dump-files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "get-files.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node get-files.js && exit"
+  },
+  "author": "Ed Griebel",
+  "license": "ISC"
+}
